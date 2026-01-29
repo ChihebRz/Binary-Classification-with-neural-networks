@@ -95,12 +95,12 @@ Navigate to the `src` directory to run the Python scripts:
 
 ### Using Jupyter Notebooks
 
-Open `notbooks/a.ipynb` (or `exploration.ipynb`, `test_inference.ipynb`) in your Jupyter environment. The `a.ipynb` notebook provides a consolidated workflow including data loading, preprocessing, model training, evaluation, and visualization of the decision boundary.
+Open `test_inference.ipynb` in your Jupyter environment. The `test_inference.ipynb` notebook provides a consolidated workflow including data loading, preprocessing, model training, evaluation, and visualization of the decision boundary.
 
 
 ## Results
 
-After training and evaluation, the model's performance metrics (accuracy, confusion matrix) will be displayed. The decision boundary plot in `a.ipynb` provides a visual understanding of how the model separates the 'Abnormal' and 'Normal' classes based on the first two principal components of the features.
+After training and evaluation, the model's performance metrics (accuracy, confusion matrix) will be displayed. The decision boundary plot in `test-inference.ipynb` provides a visual understanding of how the model separates the 'Abnormal' and 'Normal' classes based on the first two principal components of the features.
 
 ## Contributing
 
