@@ -13,7 +13,6 @@ The dataset used, `column_2C_weka.csv`, contains 6 features related to pelvic an
 *   **Model Training**: Training loop with `BCEWithLogitsLoss` and `Adam` optimizer.
 *   **Model Evaluation**: Calculates accuracy and displays a confusion matrix on the test set.
 *   **Prediction**: Script to make predictions on new data.
-*   **Visualization**: Tools to plot the model's decision boundary (for 2D projection).
 *   **Jupyter Notebooks**: Interactive notebooks for data exploration, full pipeline execution, and testing inference.
 
 ## Project Structure
