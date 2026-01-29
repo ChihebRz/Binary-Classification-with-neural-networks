@@ -1,0 +1,71 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.env/
+
+# Model & artifacts
+model.pth
+scaler.pkl
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Desktop Exclusions (from C:/Users/rezgu/OneDrive/Desktop)
+/CapCut.lnk
+/Capcut/
+/Cert4364816564-1.png
+/Cert94955636255.pdf
+/Cursor.lnk
+/"EO Platform.zip"
+/"EO Platform/"
+/"Microsoft Edge.lnk"
+/"MinGW Installer.lnk"
+/ODGLogs/
+/PP.pbix
+/"Secuirty Project/"
+/Thonny.lnk
+/"Version Finale.zip"
+/"Version Finale/"
+/"Visual Studio Code.lnk"
+/Windows.iso
+/bookingApp/
+/c.pdf
+/cer-1.png
+/cer.pdf
+/certif/
+/chatbot/
+/chela.jpg
+/codage.docx
+/"code adem.jpg"
+/cv/
+/data_certif.docx
+/data_for_ds_certif.docx
+/desktop.ini
+/ia/
+/impression.pdf
+/"insci chi.pdf"
+/mern-booking-app/
+/p/
+/"passwoerd mail.txt"
+/passwordmongodb.docx
+/profie-ch.png
+/profile.jpg
+/profilee.jpg
+/profileee.jpg
+/"project web/"
+/project-framework-web/
+/project/
+/s8or.jpg
+/se.docx
+/trdesignal.docx
+/~$ta_certif.docx
+/"الباكالوريا.pdf"
+/"المهن.docx"
